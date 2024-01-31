@@ -1,6 +1,6 @@
 {
     "name":"My progressive Web App",
-    "short_name":"My App",
+    "short_name":"Calc2.0",
     "start_url": ".",
     "background_color":"blue",
     "theme_color":"#009578",
